@@ -28,7 +28,7 @@
     "rxjs": "~6.3.3",
     "rxjs-compat": "^6.4.0",
     "stream": "0.0.2",
-    "swagger-ui": "^3.21.0",
+    "swagger-ui": "^4.1.2",
     "tslib": "^1.9.0",
     "zone.js": "~0.8.26"
   },
